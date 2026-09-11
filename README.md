@@ -11,10 +11,10 @@ Industrial procurement suffers from inconsistent naming conventions, typos, and 
 * **Realistic Data Entropy:** Trained on a 71,400-row pairwise dataset featuring 8% label noise to mirror messy, real-world ERP environments rather than artificially clean benchmarks.
 * **Interactive UI:** Includes a Streamlit dashboard (`app.py`) built for live, real-time material matching and batch inference demonstrations.
 
-Architecture:-
+ ## Architecture:-
 <img width="2816" height="1536" alt="System Architecture" src="https://github.com/user-attachments/assets/4dc54a51-99be-4e5e-9261-f47af03a43c0" />
 
-Model Performance:-
+## Model Performance:-
 <img width="2816" height="1536" alt="Model Performance " src="https://github.com/user-attachments/assets/badf4dde-38ab-4249-bc9d-12852f23a297" />
 
 
