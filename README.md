@@ -14,6 +14,10 @@ Industrial procurement suffers from inconsistent naming conventions, typos, and 
 Architecture:-
 <img width="2816" height="1536" alt="System Architecture" src="https://github.com/user-attachments/assets/4dc54a51-99be-4e5e-9261-f47af03a43c0" />
 
+Model Performance:-
+![Uploading Model Performance .png…]()
+
+
 
 ## Tech Stack
 * **Machine Learning:** LightGBM, Scikit-Learn
