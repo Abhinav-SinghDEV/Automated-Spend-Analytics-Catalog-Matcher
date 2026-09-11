@@ -15,7 +15,8 @@ Architecture:-
 <img width="2816" height="1536" alt="System Architecture" src="https://github.com/user-attachments/assets/4dc54a51-99be-4e5e-9261-f47af03a43c0" />
 
 Model Performance:-
-![Uploading Model Performance .png…]()
+<img width="2816" height="1536" alt="Model Performance " src="https://github.com/user-attachments/assets/badf4dde-38ab-4249-bc9d-12852f23a297" />
+
 
 
 
